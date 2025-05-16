@@ -1,0 +1,6 @@
+# Regole per nuovi componenti
+
+
+
+<table><thead><tr><th width="46.5" data-type="number">#</th><th width="115.5">Campo</th><th>Regola</th><th>Effetto</th></tr></thead><tbody><tr><td>1</td><td>codice</td><td>contiene "-AE-"</td><td>Sett.merce = #1 Assieme elettronico</td></tr><tr><td>2</td><td>codice</td><td>contiene "-AL-"</td><td>Sett.merce = #2 Assieme lavorato</td></tr><tr><td>3</td><td>codice</td><td>contiene "-AM-"</td><td>Sett.merce = #3 Assieme montato</td></tr><tr><td>4</td><td>codice</td><td>contiene "-AS-"</td><td>Sett.merce = #4 Assieme saldato</td></tr><tr><td>5</td><td>codice</td><td> "contiene "-M-"</td><td>Sett.merce = #13 Meccanica su disegno</td></tr><tr><td>6</td><td>codice</td><td>contiene "-L-"</td><td>Sett.merce = #16 Taglio laser lamiera</td></tr><tr><td>7</td><td>codice</td><td>contiene "-S3D-"</td><td>Sett.merce = #22 Stampa 3D</td></tr><tr><td>8</td><td>descrizione1</td><td>comincia con "Vite" o "Dado" o "Rondella"</td><td>Sett.merce = #25 Viteria</td></tr><tr><td>9</td><td>descrizione1</td><td>comincia con "Motore" o "Riduttore"</td><td>Sett.merce = #6 Drive Unit</td></tr><tr><td>10</td><td>descrizione1</td><td>descrizione1 contiene "cuscinett"</td><td>Sett.merce = #19 Trasmissioni</td></tr><tr><td>null</td><td></td><td></td><td></td></tr></tbody></table>
+
