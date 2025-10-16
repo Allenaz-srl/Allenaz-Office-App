@@ -52,4 +52,5 @@
   * [Inserimento nuova consegna](ricezione-materiale/inserimento-nuova-consegna.md)
   * [Elenco consegne](ricezione-materiale/elenco-consegne/README.md)
     * [Visualizza consegna](ricezione-materiale/elenco-consegne/visualizza-consegna.md)
-* [Tracciabilità](tracciabilita.md)
+* [Tracciabilità](tracciabilita/README.md)
+  * [Etichette per materiale consegnato](tracciabilita/etichette-per-materiale-consegnato.md)

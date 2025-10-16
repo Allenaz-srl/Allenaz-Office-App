@@ -2,7 +2,7 @@
 
 All'apertura della pagina vengono caricate nel box "Elenco ordini da consegnare" tutte le righe in view\_p7\_ordini\_non\_consegnati con fornitore uguale a quello selezionato.
 
-<figure><img src="../.gitbook/assets/Immagine31 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Immagine25.png" alt=""><figcaption></figcaption></figure>
 
 Lo scopo della pagina è ricreare a destra la "versione digitale" del documento di trasporto che si sta registrando.
 
@@ -22,7 +22,8 @@ Quindi le tre modalità per riempire la parte di destra sono:&#x20;
 
 -pulsante consegna parziale riga d'ordine
 
-Tutte queste modalità hanno l'effetto di riempire il box di destra e di disabilitare o nascondere nei box di sinistra ciò che è stato inserito.
+Tutte queste modalità hanno l'effetto di riempire il box di destra e di disabilitare o nascondere nei box di sinistra ciò che è stato inserito.\
+Nel box di destra c'è anche il pulsante "ETICHETTA" o "STAMPA ETICHETTA". Ha lo scopo di stampare l'etichetta del componente. Le specifiche di tale etichetta sono in [https://app.gitbook.com/o/iDtGkRd2HQPQZGrX8UvF/s/TvqB8mdmJWaZnZV29zYg/\~/changes/14/tracciabilita/etichette-per-materiale-consegnato](https://app.gitbook.com/o/iDtGkRd2HQPQZGrX8UvF/s/TvqB8mdmJWaZnZV29zYg/~/changes/14/tracciabilita/etichette-per-materiale-consegnato)
 
 &#x20;Il pulsante inserisci consegna ha il seguente effetto.
 
@@ -44,3 +45,4 @@ db-->|id_consegna|salvo_p8
 salvo_p5---db
 ```
 
+Dopo l'inserimento il sistema apre direttamente la pagina "Visualizza consegna" appena inserita all'interno della sezione Elenco consegne.
