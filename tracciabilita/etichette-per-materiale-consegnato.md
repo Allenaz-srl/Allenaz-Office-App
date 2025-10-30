@@ -14,7 +14,7 @@ In particolare:\
 * \#\* -> terminazione fissa
 * \# come separatore
 * idrio seguito da id\_riga\_ordine di p2
-* idcon seguito da id\_consegna p8 (è presente in p2 come rif\_consegna)
+* idcon seguito da id\_consegna p8 (è presente in p5 come rif\_consegna)
 * idcom seguito da id\_componente di anagrafica\_componenti (è presente in p2 come rif\_componente)
 * idord seguito da id\_ordine di p7  (è presente in p7 come rif\_ordine)
 
